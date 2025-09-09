@@ -1,0 +1,42 @@
+2025-07-08 14:51:45,810 - root - INFO - Inicializado modelo via API: gemini-2.5-flash
+2025-07-08 14:51:52,436 - sentence_transformers.SentenceTransformer - INFO - Use pytorch device_name: cpu
+2025-07-08 14:51:52,436 - sentence_transformers.SentenceTransformer - INFO - Load pretrained SentenceTransformer: sentence-transformers/all-MiniLM-L6-v2
+2025-07-08 14:51:55,723 - chromadb.telemetry.product.posthog - INFO - Anonymized telemetry enabled. See                     https://docs.trychroma.com/telemetry for more information.
+2025-07-09 12:04:55,927 - root - WARNING - Erro ao inicializar API Gemini: Your default credentials were not found. To set up Application Default Credentials, see https://cloud.google.com/docs/authentication/external/set-up-adc for more information.
+2025-07-09 12:04:55,927 - root - ERROR - Não foi possível inicializar nenhum LLM. Verifique a instalação do Ollama ou a API key.
+2025-07-09 12:12:28,053 - root - WARNING - Erro ao inicializar API Gemini: Your default credentials were not found. To set up Application Default Credentials, see https://cloud.google.com/docs/authentication/external/set-up-adc for more information.
+2025-07-09 12:12:28,108 - root - INFO - Inicializado modelo local: llama3.2
+2025-07-09 12:13:06,834 - sentence_transformers.SentenceTransformer - INFO - Use pytorch device_name: cpu
+2025-07-09 12:13:06,834 - sentence_transformers.SentenceTransformer - INFO - Load pretrained SentenceTransformer: sentence-transformers/all-MiniLM-L6-v2
+2025-07-09 12:13:14,757 - chromadb.telemetry.product.posthog - INFO - Anonymized telemetry enabled. See                     https://docs.trychroma.com/telemetry for more information.
+2025-07-09 12:16:10,466 - root - WARNING - Erro ao inicializar API Gemini: Your default credentials were not found. To set up Application Default Credentials, see https://cloud.google.com/docs/authentication/external/set-up-adc for more information.
+2025-07-09 12:16:11,529 - root - INFO - Inicializado modelo local: phi3:mini
+2025-07-09 12:16:39,785 - sentence_transformers.SentenceTransformer - INFO - Use pytorch device_name: cpu
+2025-07-09 12:16:39,785 - sentence_transformers.SentenceTransformer - INFO - Load pretrained SentenceTransformer: sentence-transformers/all-MiniLM-L6-v2
+2025-07-09 12:16:44,080 - chromadb.telemetry.product.posthog - INFO - Anonymized telemetry enabled. See                     https://docs.trychroma.com/telemetry for more information.
+2025-07-09 15:34:22,750 - root - INFO - Inicializado modelo via API: gemini-2.5-flash
+2025-07-09 15:34:53,228 - root - WARNING - Erro ao inicializar API Gemini: Your default credentials were not found. To set up Application Default Credentials, see https://cloud.google.com/docs/authentication/external/set-up-adc for more information.
+2025-07-09 15:34:53,273 - root - INFO - Inicializado modelo local: gemma:2b-instruct-q4_0
+2025-07-09 15:35:22,914 - sentence_transformers.SentenceTransformer - INFO - Use pytorch device_name: cpu
+2025-07-09 15:35:22,914 - sentence_transformers.SentenceTransformer - INFO - Load pretrained SentenceTransformer: sentence-transformers/all-MiniLM-L6-v2
+2025-07-09 15:35:27,483 - chromadb.telemetry.product.posthog - INFO - Anonymized telemetry enabled. See                     https://docs.trychroma.com/telemetry for more information.
+2025-07-09 20:52:44,651 - root - WARNING - Erro ao inicializar API Gemini: Your default credentials were not found. To set up Application Default Credentials, see https://cloud.google.com/docs/authentication/external/set-up-adc for more information.
+2025-07-09 20:52:44,651 - root - ERROR - Não foi possível inicializar nenhum LLM. Verifique a instalação do Ollama ou a API key.
+2025-07-09 20:53:56,303 - root - WARNING - Erro ao inicializar API Gemini: Your default credentials were not found. To set up Application Default Credentials, see https://cloud.google.com/docs/authentication/external/set-up-adc for more information.
+2025-07-09 20:53:56,303 - root - ERROR - Não foi possível inicializar nenhum LLM. Verifique a instalação do Ollama ou a API key.
+2025-07-09 20:54:15,395 - root - WARNING - Erro ao inicializar API Gemini: Your default credentials were not found. To set up Application Default Credentials, see https://cloud.google.com/docs/authentication/external/set-up-adc for more information.
+2025-07-09 20:54:15,429 - root - INFO - Inicializado modelo local: gemma:2b-instruct-q4_0
+2025-07-09 20:54:39,637 - sentence_transformers.SentenceTransformer - INFO - Use pytorch device_name: cpu
+2025-07-09 20:54:39,637 - sentence_transformers.SentenceTransformer - INFO - Load pretrained SentenceTransformer: sentence-transformers/all-MiniLM-L6-v2
+2025-07-09 20:54:44,196 - chromadb.telemetry.product.posthog - INFO - Anonymized telemetry enabled. See                     https://docs.trychroma.com/telemetry for more information.
+2025-07-09 20:55:41,268 - root - ERROR - Erro ao gerar resposta: HTTPConnectionPool(host='localhost', port=11434): Max retries exceeded with url: /api/generate (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x00000253A8EF0C70>: Failed to establish a new connection: [WinError 10061] Nenhuma conexão pôde ser feita porque a máquina de destino as recusou ativamente'))
+2025-07-09 20:55:44,439 - root - ERROR - Erro no fallback para API: Your default credentials were not found. To set up Application Default Credentials, see https://cloud.google.com/docs/authentication/external/set-up-adc for more information.
+2025-07-09 20:56:12,183 - root - ERROR - Erro ao gerar resposta: HTTPConnectionPool(host='localhost', port=11434): Max retries exceeded with url: /api/generate (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x00000253A8EF2080>: Failed to establish a new connection: [WinError 10061] Nenhuma conexão pôde ser feita porque a máquina de destino as recusou ativamente'))
+2025-07-09 20:56:15,260 - root - ERROR - Erro no fallback para API: Your default credentials were not found. To set up Application Default Credentials, see https://cloud.google.com/docs/authentication/external/set-up-adc for more information.
+2025-07-09 21:00:41,249 - root - WARNING - Erro ao inicializar API Gemini: Your default credentials were not found. To set up Application Default Credentials, see https://cloud.google.com/docs/authentication/external/set-up-adc for more information.
+2025-07-09 21:00:41,268 - root - INFO - Inicializado modelo local: gemma:2b-instruct-q4_0
+2025-07-09 21:00:53,506 - sentence_transformers.SentenceTransformer - INFO - Use pytorch device_name: cpu
+2025-07-09 21:00:53,506 - sentence_transformers.SentenceTransformer - INFO - Load pretrained SentenceTransformer: sentence-transformers/all-MiniLM-L6-v2
+2025-07-09 21:01:00,146 - chromadb.telemetry.product.posthog - INFO - Anonymized telemetry enabled. See                     https://docs.trychroma.com/telemetry for more information.
+2025-07-09 21:01:17,558 - root - ERROR - Erro ao gerar resposta: HTTPConnectionPool(host='localhost', port=11434): Max retries exceeded with url: /api/generate (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000016B19A99030>: Failed to establish a new connection: [WinError 10061] Nenhuma conexão pôde ser feita porque a máquina de destino as recusou ativamente'))
+2025-07-09 21:01:20,870 - root - ERROR - Erro no fallback para API: Your default credentials were not found. To set up Application Default Credentials, see https://cloud.google.com/docs/authentication/external/set-up-adc for more information.

@@ -1,0 +1,33 @@
+2025-07-08 14:48:18,273 - root - INFO - Inicializado modelo via API: gemini-2.5-flash
+2025-07-08 14:48:24,958 - sentence_transformers.SentenceTransformer - INFO - Use pytorch device_name: cpu
+2025-07-08 14:48:24,959 - sentence_transformers.SentenceTransformer - INFO - Load pretrained SentenceTransformer: sentence-transformers/all-MiniLM-L6-v2
+2025-07-08 14:48:28,312 - chromadb.telemetry.product.posthog - INFO - Anonymized telemetry enabled. See                     https://docs.trychroma.com/telemetry for more information.
+2025-07-09 11:01:14,820 - root - INFO - Inicializado modelo via API: gemini-2.5-flash
+2025-07-09 11:01:53,127 - sentence_transformers.SentenceTransformer - INFO - Use pytorch device_name: cpu
+2025-07-09 11:01:53,127 - sentence_transformers.SentenceTransformer - INFO - Load pretrained SentenceTransformer: sentence-transformers/all-MiniLM-L6-v2
+2025-07-09 11:01:58,325 - chromadb.telemetry.product.posthog - INFO - Anonymized telemetry enabled. See                     https://docs.trychroma.com/telemetry for more information.
+2025-07-09 11:05:01,915 - root - INFO - Inicializado modelo via API: gemini-2.5-flash
+2025-07-09 11:05:08,333 - sentence_transformers.SentenceTransformer - INFO - Use pytorch device_name: cpu
+2025-07-09 11:05:08,333 - sentence_transformers.SentenceTransformer - INFO - Load pretrained SentenceTransformer: sentence-transformers/all-MiniLM-L6-v2
+2025-07-09 11:05:11,503 - chromadb.telemetry.product.posthog - INFO - Anonymized telemetry enabled. See                     https://docs.trychroma.com/telemetry for more information.
+2025-07-09 11:07:27,302 - root - INFO - Inicializado modelo via API: gemini-2.5-flash
+2025-07-09 11:07:34,277 - sentence_transformers.SentenceTransformer - INFO - Use pytorch device_name: cpu
+2025-07-09 11:07:34,277 - sentence_transformers.SentenceTransformer - INFO - Load pretrained SentenceTransformer: sentence-transformers/all-MiniLM-L6-v2
+2025-07-09 11:07:37,532 - chromadb.telemetry.product.posthog - INFO - Anonymized telemetry enabled. See                     https://docs.trychroma.com/telemetry for more information.
+2025-07-09 11:08:38,148 - root - INFO - Inicializado modelo via API: gemini-2.5-flash
+2025-07-09 11:08:44,741 - sentence_transformers.SentenceTransformer - INFO - Use pytorch device_name: cpu
+2025-07-09 11:08:44,742 - sentence_transformers.SentenceTransformer - INFO - Load pretrained SentenceTransformer: sentence-transformers/all-MiniLM-L6-v2
+2025-07-09 11:08:48,544 - chromadb.telemetry.product.posthog - INFO - Anonymized telemetry enabled. See                     https://docs.trychroma.com/telemetry for more information.
+2025-07-09 11:12:19,616 - root - INFO - Inicializado modelo via API: gemini-2.5-flash
+2025-07-09 11:12:26,552 - sentence_transformers.SentenceTransformer - INFO - Use pytorch device_name: cpu
+2025-07-09 11:12:26,553 - sentence_transformers.SentenceTransformer - INFO - Load pretrained SentenceTransformer: sentence-transformers/all-MiniLM-L6-v2
+2025-07-09 11:12:29,953 - chromadb.telemetry.product.posthog - INFO - Anonymized telemetry enabled. See                     https://docs.trychroma.com/telemetry for more information.
+2025-07-09 15:38:13,643 - root - WARNING - Erro ao inicializar API Gemini: Your default credentials were not found. To set up Application Default Credentials, see https://cloud.google.com/docs/authentication/external/set-up-adc for more information.
+2025-07-09 15:38:13,645 - root - ERROR - Não foi possível inicializar nenhum LLM. Verifique a instalação do Ollama ou a API key.
+2025-07-09 15:38:26,824 - root - WARNING - Erro ao inicializar API Gemini: Your default credentials were not found. To set up Application Default Credentials, see https://cloud.google.com/docs/authentication/external/set-up-adc for more information.
+2025-07-09 15:38:26,824 - root - ERROR - Não foi possível inicializar nenhum LLM. Verifique a instalação do Ollama ou a API key.
+2025-07-09 15:39:10,439 - root - WARNING - Erro ao inicializar API Gemini: Your default credentials were not found. To set up Application Default Credentials, see https://cloud.google.com/docs/authentication/external/set-up-adc for more information.
+2025-07-09 15:39:10,458 - root - INFO - Inicializado modelo local: gemma:2b-instruct-q4_0
+2025-07-09 15:39:19,105 - sentence_transformers.SentenceTransformer - INFO - Use pytorch device_name: cpu
+2025-07-09 15:39:19,105 - sentence_transformers.SentenceTransformer - INFO - Load pretrained SentenceTransformer: sentence-transformers/all-MiniLM-L6-v2
+2025-07-09 15:39:22,696 - chromadb.telemetry.product.posthog - INFO - Anonymized telemetry enabled. See                     https://docs.trychroma.com/telemetry for more information.

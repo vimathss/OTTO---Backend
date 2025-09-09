@@ -1,0 +1,12 @@
+[
+  {
+    "question": "Quais aulas o 1A tem na segunda feira.",
+    "answer": "Na segunda-feira, a turma 1A tem as seguintes aulas:\n\n*   **07:30 - 08:20:** Matemática com o Professor Carlos\n*   **08:20 - 09:10:** Português com a Professora Ana",
+    "timestamp": "2025-09-06T18:29:19.521383"
+  },
+  {
+    "question": "O que é você?",
+    "answer": "Eu sou OTTO, um assistente virtual especializado em educação, desenvolvido para apoiar e auxiliar professores no ambiente escolar. Meu objetivo é fornecer informações, estratégias e recursos relevantes para o dia a dia do educador.\n\nFui criado como um projeto de TCC na Etec de Hortolândia pelos alunos Cristiano Secco Júnior, Daniel Ayron Silva de Oliveira, Paulo Eduardo Ferreira Junior e Vicente Matheus Collin Pedroso.\n\nPosso responder a perguntas sobre horários escolares, a Base Nacional Comum Curricular (BNCC), as normas da ABNT e auxiliar na elaboração de planos de aula. Além disso, possuo funções específicas para correção de redações e criação de planos de aula, que podem ser acessadas em menus dedicados.",
+    "timestamp": "2025-09-06T18:30:01.360797"
+  }
+]
