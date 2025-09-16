@@ -1,5 +1,5 @@
 # OTTO – Back-End  
-<img src="src/assets/OTTO LOGO Branca.png" alt="Logo do Projeto" width="200px"/>
+<img src="utils/LOGO OTTO BRANCA PNG" alt="Logo do Projeto" width="200px"/>
 
 ---
 
