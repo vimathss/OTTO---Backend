@@ -76,6 +76,12 @@ O projeto OTTO utiliza um conjunto de tecnologias modernas para garantir desempe
 | **Frontend** | React / TypeScript | Tecnologias utilizadas para a interface do usuário. |
 | **Bibliotecas de IA** | LangChain Community | Componentes de código aberto para facilitar a construção de aplicações com LLMs. |
 
+## Conquistas com o OTTO
+- Melhor Projeto oriundo da Região **Sudeste** do Brasil na **FEBIC 2025 – Joinville/SC** 🏅  
+- Medalha de **OURO** na **EXPOTEC 2025 – Leme/SP** 🏅
+- 2º lugar **Melhor Projeto** do Curso Técnico em Desenvolvimento de Sistemas na **PROJETEC 2025 - Hortolândia/SP** 🥈 
+- Participação em diversas feiras e desafios, como o Solve For Tomorrow Brasil e o Desafio Liga Jovem
+
 ## Informações adicionais
 
 - Status: **Em andamento**  
